@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#button {
+    height: 50px;
+    width: 50px;
+    border: 10px solid #0065A6;
+    border-radius: 50%;
+    background-color: rgb(131, 198, 240);
+    transition: all 0.1s ease-in-out;
+}
+
+#button:hover {
+    transform: scale(1.2);
+    border-color: rgb(1, 48, 77);
+}
