@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://kriszzy01.github.io/Sliding SideBar",
+=======
+  "homepage": "https://kriszzy01.github.io/Sliding-Side-Menu",
+>>>>>>> b62fb09d48238d1a5ff3f1732c912a628b0154f8
   "name": "react-testing",
   "version": "0.1.0",
   "private": true,
